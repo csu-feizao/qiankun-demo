@@ -23,3 +23,6 @@ npm start
 #### 子应用
 ![image](https://user-images.githubusercontent.com/14802930/115651219-564b6600-a35d-11eb-8e07-e750752987ee.png)
 
+#### 录屏
+![image](./img/qiankun-demo.gif)
+
